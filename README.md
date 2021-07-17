@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Ivan 👋
+
+Front-end developer from Moscow
 
 <!--
 **BANOnotIT/BANOnotIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I'm studing at the [Bauman University](https://bmstu.ru/faculty/iu)
+- 💬 Ask me about React and front-end architecture
+- 🤔 I’m looking for help with RDBMS and general program architecture
