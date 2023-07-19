@@ -1,6 +1,6 @@
 ### Hi there, I'm Ivan 👋
 
-Front-end developer from Moscow
+Fullstack developer
 
 <!--
 **BANOnotIT/BANOnotIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
