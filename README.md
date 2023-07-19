@@ -16,7 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🔭 I'm studing at the [Bauman University](https://bmstu.ru/faculty/iu)
 - 💬 Ask me about React and front-end architecture
 - 🤔 I’m looking for help with RDBMS and general program architecture
